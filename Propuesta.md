@@ -36,3 +36,10 @@ malentendidos y permite al cliente saber exactamente en qué estado está su com
 - Nicol Riascos-Frontend: HTML5, CSS, Bootstrap
 - Aura Quiñones-Backend: Node.js (Express)
 - Isaura Banguera-Base de datos: MySQL
+
+- **opinion de nicol**
+Me parece una idea muy aplicable a la realidad de nuestras ciudades. 
+diariamente podemos mirar la necesidad de muchos restaurantes locales que todavía manejan sus pedidos por WhatsApp y eso genera 
+errores y demoras. Creo que este proyecto tendra impacto real y además nos va a 
+permitir practicar bien el flujo completo de una aplicación web: registro, sesiones, 
+estados y base de datos. Estoy motivada con el reto del panel de administración.
