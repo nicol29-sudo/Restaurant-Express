@@ -38,6 +38,7 @@ malentendidos y permite al cliente saber exactamente en qué estado está su com
 - Isaura Banguera-Base de datos: MySQL
 
 - **opinion de nicol**
+  
 Me parece una idea muy aplicable a la realidad de nuestras ciudades. 
 diariamente podemos mirar la necesidad de muchos restaurantes locales que todavía manejan sus pedidos por WhatsApp y eso genera 
 errores y demoras. Creo que este proyecto tendra impacto real y además nos va a 
