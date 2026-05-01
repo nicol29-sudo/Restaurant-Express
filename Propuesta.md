@@ -37,6 +37,14 @@ malentendidos y permite al cliente saber exactamente en qué estado está su com
 - Aura Quiñones-Backend: Node.js (Express)
 - Isaura Banguera-Base de datos: MySQL
 
+**opinion de nicol**
+Me gusta mucho esta propuesta porque ataca un problema que 
+vemos a diario en negocios de nuestro entorno. El hecho de que tenga dos tipos 
+de usuario (cliente y administrador) hace que el proyecto sea más completo y 
+realista, similar a lo que encontraríamos en un trabajo profesional. Me interesa 
+especialmente trabajar en la parte del historial de pedidos y el formulario de 
+registro.
+
 **opinion de isaura**
 Me gusta mucho esta propuesta porque ataca un problema que 
 vemos a diario en negocios de nuestro entorno. El hecho de que tenga dos tipos 
